@@ -58,7 +58,7 @@ Raw Data -> Cleaning -> EDA ->KPI Analysis -> Dashboard -> Business Insights
 ## Dashboard Pages
 
 ### Report 1 – Operational Performance Dashboard
-![Report 1 Dashboard](Dashboard-overview/Report_1.png)
+![Report 1 Dashboard](Dashboard_overview/Report_1.png)
 
 ### Page 1 – Operational Performance Dashboard
 This page **presented key operational KPIs**, including:
@@ -71,7 +71,7 @@ This page **presented key operational KPIs**, including:
 - Delay trend over time
 
 ### Report 2 – Financial & Product Insights
-![Report 2 Dashboard](Dashboard-overview/Report_2.png)
+![Report 2 Dashboard](Dashboard_overview/Report_2.png)
 
 ### Page 2 – Financial & Product Insights
 This page **highlighted financial and product-level performance**, including:
